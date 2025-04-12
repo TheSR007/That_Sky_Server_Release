@@ -31,7 +31,8 @@ That Sky Server was created to provide a private server for the game Sky: Childr
 - [ ] All the Features of Sky Server
 
 ### Demo
-TODO
+[Demo Video](https://www.youtube.com/watch?v=EafplsN5Dcs) <br>
+Note: I used [VS Code](https://code.visualstudio.com/) and [SQlite3 Editor](https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor) in The Video to edit the database.
 
 ### Setup
 #### That Sky Server
