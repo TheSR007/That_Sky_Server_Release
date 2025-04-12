@@ -1,0 +1,465 @@
+[
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 864432821,
+    "level_hash": 14461,
+    "bst_id": 294,
+    "states": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 56
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 3516048122,
+    "level_hash": 386,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 54
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2477345666,
+    "level_hash": 4684,
+    "bst_id": 1591,
+    "states": [
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 17
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 3928396665,
+    "level_hash": 50489,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 2
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 1559613961,
+    "level_hash": 55041,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 15
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 3526133726,
+    "level_hash": 0,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 0
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 261807733,
+    "level_hash": 50040,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": true,
+    "arc_order": 82
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2251284635,
+    "level_hash": 20014,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 81
+  },
+  {
+    "user": "ba733b67-c4a0-4c05-bb6d-fbf453d48f23",
+    "level_id": 312004957,
+    "level_hash": 15124,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 19
+  },
+  {
+    "user": "ba733b67-c4a0-4c05-bb6d-fbf453d48f23",
+    "level_id": 2350532176,
+    "level_hash": 30303,
+    "bst_id": 0,
+    "states": [
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 21
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 3479786579,
+    "level_hash": 10353,
+    "bst_id": 294,
+    "states": [
+      true,
+      false,
+      true,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 78
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 1705189686,
+    "level_hash": 25043,
+    "bst_id": 235,
+    "states": [
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 77
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 567986524,
+    "level_hash": 7153,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 80
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 164626931,
+    "level_hash": 15195,
+    "bst_id": 0,
+    "states": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 25
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 2358907137,
+    "level_hash": 16187,
+    "bst_id": 0,
+    "states": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 61
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 3057325709,
+    "level_hash": 35268,
+    "bst_id": 1005,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 20
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 3368878998,
+    "level_hash": 61348,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 16
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 1638008359,
+    "level_hash": 35330,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 33
+  },
+  {
+    "user": "8255af33-3520-4d5d-8069-f5528471ee2a",
+    "level_id": 1649439303,
+    "level_hash": 55702,
+    "bst_id": 2545,
+    "states": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 1
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 1190972738,
+    "level_hash": 30214,
+    "bst_id": 69,
+    "states": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 24
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2839585646,
+    "level_hash": 53396,
+    "bst_id": 408,
+    "states": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 26
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2159642775,
+    "level_hash": 37000,
+    "bst_id": 462,
+    "states": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 27
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 128844448,
+    "level_hash": 29654,
+    "bst_id": 118,
+    "states": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 31
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 571720490,
+    "level_hash": 12818,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 34
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2360310676,
+    "level_hash": 19402,
+    "bst_id": 34,
+    "states": [
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 37
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 263580627,
+    "level_hash": 23082,
+    "bst_id": 3856,
+    "states": [
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 38
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 507487826,
+    "level_hash": 52917,
+    "bst_id": 191,
+    "states": [
+      true,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 39
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 817373972,
+    "level_hash": 31179,
+    "bst_id": 196,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 51
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 1147491976,
+    "level_hash": 47654,
+    "bst_id": 13,
+    "states": [
+      true,
+      false,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 52
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 1597085778,
+    "level_hash": 54771,
+    "bst_id": 498,
+    "states": [
+      true,
+      false,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 58
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 4158956653,
+    "level_hash": 24409,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 59
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2307461961,
+    "level_hash": 14626,
+    "bst_id": 476,
+    "states": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 66
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 2267185542,
+    "level_hash": 13074,
+    "bst_id": 228,
+    "states": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 67
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 3110721718,
+    "level_hash": 52742,
+    "bst_id": 520,
+    "states": [
+      true,
+      false,
+      true
+    ],
+    "is_furthest": false,
+    "arc_order": 76
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 3437135515,
+    "level_hash": 55906,
+    "bst_id": 0,
+    "states": [],
+    "is_furthest": false,
+    "arc_order": 79
+  },
+  {
+    "user": "fd6ea319-b190-4c0d-ad7c-98e16233d394",
+    "level_id": 170656205,
+    "level_hash": 2445,
+    "bst_id": 790,
+    "states": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "is_furthest": false,
+    "arc_order": 55
+  }
+]
