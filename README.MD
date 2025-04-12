@@ -30,9 +30,16 @@ That Sky Server was created to provide a private server for the game Sky: Childr
 - [ ] Multiplayer Support
 - [ ] All the Features of Sky Server
 
-### Setup
-TODO
-
 ### Demo
 TODO
+
+### Setup
+#### That Sky Server
+  - [Windows](https://www.youtube.com/watch?v=ZUoSCtlUeAI)
+  - [Linux](https://www.youtube.com/watch?v=ylRlD8IeDvs)
+
+#### Sky
+  - [PC (Windows)](https://www.youtube.com/watch?v=62jhWTx13dE)
+  - TODO Android
+
 
